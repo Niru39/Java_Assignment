@@ -11,7 +11,7 @@ This project is a desktop application for department store. Crud functions like 
 ## Running the project
 * Clone the repository
 
-    ``` git clone https://github.com/krisha-magar/Java_Assignement ```
+    ``` git clone https://github.com/Niru39/Java_Assignement ```
 * Open the IDE
 * Open the project
 * Create database 
